@@ -36,6 +36,13 @@ After installing the above environments and libraries, we can proceed to clone t
 2. In the `Run` tab, select `Edit Configurations`
 3. Setup the configurations as follows:
 ![IntelliJ Setup](images/IntelliJ%20Setup.PNG)
+4. Open `ce2006project_maven/src/main/java/Tools/Keys.java`
+5. Replace `"YOUR_KEY"` with your own GoogleMaps API key: 
+https://developers.google.com/maps/documentation/javascript/get-api-key
+6. Enable the following APIs for your API key:
+- Geocoding API
+- Directions API
+- Maps JavaScript API
 
 ## 2. Overall Description
 
