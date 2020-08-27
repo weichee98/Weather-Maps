@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="All Places" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="99f43f55-581e-43ce-a58f-bbf5f3b12e28" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/Class Diagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/IntelliJ Setup.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/Sequence Diagram (Display Query Results).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/Sequence Diagram (View and Edit Profile).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/Sequence Diagram (Warning Suggestions).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/Sequence Diagram (Weather Update).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/UI1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/UI2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/UI3.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/Use Case Diagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1SYzejhEzISddYFN4BwMHuFzN6p" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.31839082" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="org.openjfx.ce2006project_maven.App" />
+      <module name="ce2006project_maven" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Program Files\Java\javafx-sdk-11.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml " />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.openjfx.ce2006project_maven.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="org.openjfx.ce2006project_maven.App" />
+      <module name="ce2006project_maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.openjfx.ce2006project_maven.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="org.openjfx.ce2006project_maven.App" />
+      <module name="ce2006project_maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.openjfx.ce2006project_maven.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99f43f55-581e-43ce-a58f-bbf5f3b12e28" name="Default Changelist" comment="" />
+      <created>1571755414780</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571755414780</updated>
+      <workItem from="1571755416162" duration="230000" />
+      <workItem from="1571755662877" duration="5655000" />
+      <workItem from="1571808594906" duration="12360000" />
+      <workItem from="1571822642744" duration="440000" />
+      <workItem from="1571970894458" duration="52000" />
+      <workItem from="1571982109278" duration="6117000" />
+      <workItem from="1571988683034" duration="587000" />
+      <workItem from="1572181149842" duration="104000" />
+      <workItem from="1572181997955" duration="672000" />
+      <workItem from="1572438445024" duration="804000" />
+      <workItem from="1572444987398" duration="125000" />
+      <workItem from="1572494199952" duration="2480000" />
+      <workItem from="1572497708743" duration="3154000" />
+      <workItem from="1572502969703" duration="2034000" />
+      <workItem from="1573355743884" duration="15265000" />
+      <workItem from="1573375674161" duration="1306000" />
+      <workItem from="1573389401119" duration="712000" />
+      <workItem from="1573402706721" duration="582000" />
+      <workItem from="1573440658696" duration="7843000" />
+      <workItem from="1573461359942" duration="1119000" />
+      <workItem from="1573462695846" duration="6175000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2577" y="53" key="#App_(1)" timestamp="1598517942990">
+      <screen x="1920" y="-86" width="1920" height="1040" />
+    </state>
+    <state x="2577" y="53" key="#App_(1)/0.0.1536.824/1920.-86.1920.1040@1920.-86.1920.1040" timestamp="1598517942990" />
+    <state x="2577" y="53" key="#App_(2)" timestamp="1598517959825">
+      <screen x="1920" y="-86" width="1920" height="1040" />
+    </state>
+    <state x="2577" y="53" key="#App_(2)/0.0.1536.824/1920.-86.1920.1040@1920.-86.1920.1040" timestamp="1598517959825" />
+    <state x="2360" y="8" key="#Project_Structure" timestamp="1598517626704">
+      <screen x="1920" y="-86" width="1920" height="1040" />
+    </state>
+    <state x="2360" y="8" key="#Project_Structure/0.0.1536.824/1920.-86.1920.1040@1920.-86.1920.1040" timestamp="1598517626704" />
+    <state x="2426" y="78" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598538736620">
+      <screen x="1920" y="-86" width="1920" height="1040" />
+    </state>
+    <state x="2426" y="78" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.-86.1920.1040@1920.-86.1920.1040" timestamp="1598538736620" />
+    <state x="2609" y="224" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1598517565846">
+      <screen x="1920" y="-86" width="1920" height="1040" />
+    </state>
+    <state x="2609" y="224" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824/1920.-86.1920.1040@1920.-86.1920.1040" timestamp="1598517565846" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1598536079989">
+      <screen x="1920" y="-86" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.-86.1920.1040@1920.-86.1920.1040" timestamp="1598536079989" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1598536079989">
+      <screen x="1920" y="-86" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1536.824/1920.-86.1920.1040@1920.-86.1920.1040" timestamp="1598536079989" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1598536079989">
+      <screen x="1920" y="-86" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1536.824/1920.-86.1920.1040@1920.-86.1920.1040" timestamp="1598536079989" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1598536079989">
+      <screen x="1920" y="-86" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1536.824/1920.-86.1920.1040@1920.-86.1920.1040" timestamp="1598536079989" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1598536079989">
+      <screen x="1920" y="-86" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.-86.1920.1040@1920.-86.1920.1040" timestamp="1598536079989" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1598536079989">
+      <screen x="1920" y="-86" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1536.824/1920.-86.1920.1040@1920.-86.1920.1040" timestamp="1598536079989" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1598536079989">
+      <screen x="1920" y="-86" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1536.824/1920.-86.1920.1040@1920.-86.1920.1040" timestamp="1598536079989" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1598536079989">
+      <screen x="1920" y="-86" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1536.824/1920.-86.1920.1040@1920.-86.1920.1040" timestamp="1598536079989" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ce2006project_maven$App.ic" NAME="App Coverage Results" MODIFIED="1598517822799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.openjfx.ce2006project_maven.*</FILTER>
+    </SUITE>
+  </component>
+</project>
