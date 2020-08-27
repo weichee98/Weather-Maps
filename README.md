@@ -28,7 +28,9 @@ https://openjfx.io/openjfx-docs/#install-javafx
 
 After installing the above environments and libraries, we can proceed to clone the repository.
 
-``git clone https://github.com/weichee98/Weather-Maps.git``
+```
+git clone https://github.com/weichee98/Weather-Maps.git
+```
 
 ### 1.5 IntelliJ IDEA Setup
 
