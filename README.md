@@ -1,6 +1,6 @@
 # WeatherMaps Application
 
-The product is a JavaFX application that requires internet to fetch information and display results. 
+The is a JavaFX application that requires internet to fetch information and display results. 
 The required information is obtained from the Singapore Government data API and the Google Maps API. 
 The map view in the application is implemented using HTML file. The user profile is stored in a properties file.
 
