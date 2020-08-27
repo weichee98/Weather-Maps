@@ -40,9 +40,9 @@ After installing the above environments and libraries, we can proceed to clone t
 5. Replace `"YOUR_KEY"` with your own GoogleMaps API key: 
 https://developers.google.com/maps/documentation/javascript/get-api-key
 6. Enable the following APIs for your API key:
-  - Geocoding API
-  - Directions API
-  - Maps JavaScript API
+  1. Geocoding API
+  2. Directions API
+  3. Maps JavaScript API
 
 ## 2. Overall Description
 
